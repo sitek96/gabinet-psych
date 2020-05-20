@@ -12,7 +12,7 @@ const handleClick = () => {
   nav.classList.toggle('navigation--active');
 }
 if (window.matchMedia('(max-width: 1023px)')){
-logo.addEventListener('click', handleClick)
+logo.addEventListener('click', handleClick);
 hamburger.addEventListener('click', handleClick);
 about.addEventListener('click', handleClick);
 services.addEventListener('click', handleClick);
