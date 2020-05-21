@@ -10,6 +10,7 @@ import Pricelist from "../components/price_list"
 import Contact from "../components/contact"
 import { Helmet } from 'react-helmet'
 const IndexPage = () => (
+
   <div>
     <SEO title="Gabinet Psychologiczny zmiana na lepsze" /> 
     
@@ -22,9 +23,6 @@ const IndexPage = () => (
     <Contact></Contact>
     <Helmet>    
       <script src="https://kit.fontawesome.com/24b42d480f.js" crossorigin="anonymous" ></script>
-      <script type="text/javascript" src='hamburger.js' />
-      <script type="text/javascript" src='znanylekarz.js' />
-      
     </Helmet>
   </div>
 )

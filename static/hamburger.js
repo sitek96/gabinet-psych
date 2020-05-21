@@ -1,3 +1,4 @@
+window.onload=function(){
 const hamburger = document.querySelector('.hamburger');
 const nav = document.querySelector('.navigation');
 const logo = document.querySelector(".brand");
@@ -19,4 +20,5 @@ services.addEventListener('click', handleClick);
 coworkers.addEventListener('click', handleClick);
 banks.addEventListener('click', handleClick);
 contact.addEventListener('click', handleClick);
+}
 }
