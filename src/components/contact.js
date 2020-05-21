@@ -110,8 +110,19 @@ const Contact = ({ siteTitle }) => {
                 <div className="box-contact">
                         <div className="icon-contact">
                             <i className="fa fa-map-marker " aria-hidden="true"></i>
-                                <h4>Adres</h4>
+                                <h4>Adres 1</h4>
                                 <h3>Zielona Góra, 65-001, ul.Wandy 27 lok. 5</h3>
+                                <h3>Gabinet psychologiczny "Zmiana na lepsze"</h3>
+
+                        </div>
+                    </div>
+                    <div className="box-contact">
+                        <div className="icon-contact">
+                            <i className="fa fa-map-marker " aria-hidden="true"></i>
+                                <h4>Adres 2</h4>
+
+                                <h3>Gubin, 66-620, ul. drukarska 9</h3>
+                                <h3>Pracownia Psychologiczna "Motowiwa"</h3>
                         </div>
                     </div>
                     <div className="box-contact">

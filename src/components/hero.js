@@ -14,7 +14,7 @@ const hero = () => (
                 <h3>Mgr. Aleksandra Ślączka Lebiedzińska</h3>
                 <p> Psycholog dziecięcy <br></br>
                     Certyfikowany specjalista psychoterapii uzależnień <br></br>
-                    Specjalista psychologii transportu</p>
+                    Specjalista psychologii klinicznej</p>
               <a href="#about-me">więcej</a>
             </div>
             <img src="4824.png" className="therapy-session-hero"></img>

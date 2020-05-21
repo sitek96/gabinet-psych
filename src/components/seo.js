@@ -75,7 +75,8 @@ function SEO({ description, lang, meta, title }) {
 SEO.defaultProps = {
   lang: `pl`,
   meta: [],
-  description: ``,
+  description: `Gabinet Psychologiczny zmiana na lepsze
+  Mgr Aleksandra Ślączka Lebiedzińska`,
 }
 
 SEO.propTypes = {
