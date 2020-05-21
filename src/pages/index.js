@@ -23,6 +23,7 @@ const IndexPage = () => (
     <Contact></Contact>
     <Helmet>    
       <script src="https://kit.fontawesome.com/24b42d480f.js" crossorigin="anonymous" ></script>
+      <script key="xx" type="text/javascript" src='znanylekarz.js' />
     </Helmet>
   </div>
 )

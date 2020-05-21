@@ -19,9 +19,9 @@ const hero = () => (
             </div>
             <img src="4824.png" className="therapy-session-hero"></img>
             <ul className="social-media">
-                <li><a href="#"><i className="fa fa-facebook"></i></a></li>
-                <li><a href="https://www.znanylekarz.pl/aleksandra-slaczka-lebiedzinska/psycholog-dzieciecy-psychoterapeuta/gubin"><i className="far fa-calendar-check"></i></a></li>
-                <li><a href="#"><i className="fas fa-car"></i></a></li>
+                <li><a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/gabinetpsychologicznyiterapeutyczny"><i className="fa fa-facebook"></i></a></li>
+                <li><a target="_blank" rel="noopener noreferrer" href="https://www.znanylekarz.pl/aleksandra-slaczka-lebiedzinska/psycholog-dzieciecy-psychoterapeuta/gubin"><i className="far fa-calendar-check"></i></a></li>
+                <li><a target="_blank" rel="noopener noreferrer" href="http://www.motowiwa.pl/"><i className="fas fa-car"></i></a></li>
             </ul>
         </section>
     </div>

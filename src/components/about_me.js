@@ -10,7 +10,6 @@ const aboutMe = () => (
         <div className="image-about-me">
             <img className="photo-me" src="PaniOla.png"></img>
             <div className="card">
-            <a id="zl-url" className="zl-url" href="https://www.znanylekarz.pl/aleksandra-slaczka-lebiedzinska/psycholog-dzieciecy-psychoterapeuta/gubin" rel="nofollow" data-zlw-doctor="aleksandra-slaczka-lebiedzinska" data-zlw-type="button_calendar_medium" data-zlw-opinion="false" data-zlw-hide-branding="true">Aleksandra Ślączka-Lebiedzińska - ZnanyLekarz.pl</a>
             </div>
         </div>
         <div className="flex-box">
