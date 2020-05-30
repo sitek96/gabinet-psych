@@ -6,7 +6,7 @@ import "../images/Awesome Human Brain Hemispheres 1.svg"
 
 const offer = () => (
     <section className="offer-section" id="offer">
-        <h1>Oferta</h1>
+        <h2>Oferta</h2>
         <div className="container"><div className="cards">
             <div className="card">
                 <div className="face face1">

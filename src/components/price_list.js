@@ -5,7 +5,7 @@ import '../images/psychologist3-01.svg'
 const hero = () => (
 
         <section className="section-price-list" id="price-list" >
-            <h1>Cennik</h1>
+            <h2>Cennik</h2>
             <div className="container">
                 <div className="info-price-list">
                     <div className="price-list-line">

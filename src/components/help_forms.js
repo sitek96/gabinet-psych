@@ -8,7 +8,7 @@ import "../images/thinking.svg"
 
 const help = () => (
     <section className="help-section" id="help">
-        <h1>Formy Pomocy</h1>
+        <h2>Formy Pomocy</h2>
         <div className="container">
             
             <div className="card">

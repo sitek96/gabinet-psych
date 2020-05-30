@@ -39,7 +39,7 @@ const Contact = ({ siteTitle }) => {
             <div className="container-contact">
                 <div className="container-contact-forms">
                     <div className="container-contact-forms-content">
-                        <h1>&bull; Wiadomość &bull;</h1>
+                        <h2>&bull; Wiadomość &bull;</h2>
                         <div className="underline"></div>
                         <div className="icon_wrapper">
                             <svg className="icon" viewBox="0 0 511.974 511.974">
@@ -120,7 +120,6 @@ const Contact = ({ siteTitle }) => {
                         <div className="icon-contact">
                             <i className="fa fa-map-marker " aria-hidden="true"></i>
                                 <h4>Adres 2</h4>
-
                                 <h3>Gubin, 66-620, ul. drukarska 9</h3>
                                 <h3>Pracownia Psychologiczna "Motowiwa"</h3>
                         </div>
@@ -130,6 +129,7 @@ const Contact = ({ siteTitle }) => {
                             <i className="fa fa-phone " aria-hidden="true"></i>
                                 <h4>Telefon</h4>
                                 <h3>+48 601 297 952</h3>
+                                <h3>+48 609 594 080</h3>
                         </div>
                     </div>
                     <div className="box-contact">
